@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Diya Bisirotti</h1>
 <h3 align="center">Welcome to my GitHub! I’m a passionate software developer exploring new and cutting-edge technologies.</h3>
 
+<h3 align="left">💻 Tech Skills:</h3>
+<p align="left">
+  <b>Programming Languages:</b> <code>C++</code> <code>Python</code><br>
+  <b>Web Development:</b> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Bootstrap</code><br>
+  <b>Database:</b> <code>MySQL</code><br>
+  <b>Python Libraries:</b> <code>Pandas</code> <code>NumPy</code> <code>Matplotlib</code> <code>Scikit-learn</code> <br>
+  <b>Tools & IDEs:</b> <code>VS Code</code>  <code>PyCharm</code>  <code>Jupyter Notebook</code>  
+</p>
+
+
+
 <p align="left">
 </p>
 
